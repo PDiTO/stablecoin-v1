@@ -4,6 +4,6 @@ A fully configurable algorithmic stablecoin. For example use only, not audited a
 
 ## Current Example
 
-Peg: USD
-Collateral types: WETH / WBTC
+Peg: USD  
+Collateral types: WETH / WBTC  
 Feeds: CHAINLINK
